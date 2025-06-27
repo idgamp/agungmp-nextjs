@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   output: "standalone",
   images: {
-    remotePatterns: [new URL("https://agungmp.com")],
+    remotePatterns: [new URL("https://agungmp.com/")],
   },
 };
 
